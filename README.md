@@ -1,2 +1,2 @@
 # KURNIA INSYIANI PUTRI
-# Data & Business Analysis Portfolio
+# Data & Business Analyst Portfolio
